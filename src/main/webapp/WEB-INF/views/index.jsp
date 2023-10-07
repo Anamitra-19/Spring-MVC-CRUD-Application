@@ -3,7 +3,7 @@
 <%@include file="./base.jsp"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 </head>
-<body>
+<body background="https://wallpaperheart.com/wp-content/uploads/2018/04/wallpaper.wiki-Cool-nature-backgrounds-hd-resolution-nature-background-image-hd.jpg">
 	<div class="container mt-3">
 
 		<div class="row">
